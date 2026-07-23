@@ -2,3 +2,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+feelingsa)](https://git.io/typing-svg)
 
 <img src="https://camo.githubusercontent.com/183466da80042b653ec024a4b8c00066e7ebd99e8517a7cb0d3b5ff44b5143fa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" style="visibility: visible; max-width: 100%;">
+
+<img alt="github-snake" src="https://camo.githubusercontent.com/685f161552c898405a4ab62b059a6ad100c8329e8bd4152597ba3aa45ff0b238/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f70726f66696c652d736e616b652d636f6e747269622f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652d6461726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" style="visibility: visible; max-width: 100%;">
